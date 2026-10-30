@@ -58,6 +58,8 @@ python stopwatch.py
 A simple stopwatch with a black interface,
 red digital numbers and three control buttons.
 
+![Stopwatch Preview](stopwatch-preview.png)
+
 ## Author
 
 Lazaros
